@@ -38,6 +38,13 @@ I am a BACKEND Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ---
 
+### 🔥 &nbsp; My Stats :
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antxrest&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antxrest&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
