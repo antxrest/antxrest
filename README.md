@@ -17,7 +17,7 @@ I am a BACKEND Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
-- ✉ Mail  anton.edelman@yandex.ru
+- ✉  Mail  anton.edelman@yandex.ru
 
 ---
 
